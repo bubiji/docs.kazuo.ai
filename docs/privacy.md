@@ -1,4 +1,4 @@
-Kazuo.AI PRIVACY POLICY
+# KaZuo.AI Privacy Policy
 Last Updated: February 24, 2024
 
 This Privacy Policy (“Policy”) describes how Kazuo.AI and its related companies (“KaZuo.AI”,“we,” or “us,” or “Company”) collect, use and share personal information of users of the KaZuo.AI mobile application (“KaZuo.AI” or the “App”), this website (the “Platform”) and other services provided by the Company (the App, the Platform, and such services shall be collectively referred to as the “Service”). This Policy also applies to any of our other mobile applications or websites that post this Policy. This Policy does not apply to websites that post different statements.

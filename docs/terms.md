@@ -1,4 +1,4 @@
-KaZuo.AI Terms of Use
+# KaZuo.AI Terms of Use
 Please read the following terms and conditions carefully before subscribing to "KaZuo.AI Monthly" or "KaZuo.AI Annual", a service provided by "KaZuo.AI" ("we", "us", "our") (the "Service").
 
 Subscription
