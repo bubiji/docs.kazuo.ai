@@ -10,11 +10,11 @@ sidebar_position: 1
 
 Dian Li
 
-Worked for IBM and Huawei.  
-Worked on artificial intelligence projects as a consultant for Microsoft in early years  
-Currently focusing on AI  
-Aiming to assist users to "build the cerebral cortex".  
-Strengthening the irreplaceable parts of the human brain.  
+Worked for IBM and Huawei
+Worked on AI projects as a consultant for Microsoft in early years  
+Currently focusing on AI applications and data analysis 
+Aiming to assist users to "build the cerebral cortex" 
+Strengthening the irreplaceable parts of the human brain
 
 Continuously updated  
 
