@@ -20,8 +20,13 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            KaZuo.AI About Us ⏱️
           </Link>
+          {/* <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro">
+            KaZuo.AI Tutorial - 5min ⏱️
+          </Link> */}
         </div>
       </div>
     </header>
