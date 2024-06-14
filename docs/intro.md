@@ -20,4 +20,11 @@ Continuously updated
 
 ### Contact Me  
 
-deanlee2013#gmail.com
+contact@sens.co.jp
+
+03-4500-0507
+
+1160014
+Tokyo-to Arakawa-ku
+Higashi-Nippori 2-chome 11-11
+Japan
