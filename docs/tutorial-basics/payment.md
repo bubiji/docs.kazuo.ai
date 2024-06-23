@@ -1,152 +1,48 @@
 ---
-sidebar_position: 4
+sidebar_position: 0
 ---
 
-# 支付与优惠
+# 订阅与优惠
 
-Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 
-## Front Matter
+## 订阅付费的优势
 
-Markdown documents have metadata at the top called [Front Matter](https://jekyllrb.com/docs/front-matter/):
+![alt text](img/subscribe.png)
 
-```text title="my-doc.md"
-// highlight-start
----
-id: my-doc-id
-title: My document title
-description: My document description
-slug: /my-custom-url
----
-// highlight-end
+#### 1 目前付费版本支持GPT4o，反应速度更快，回答逻辑性更强。  
+GPT4逻辑性强代表：  
+1) 机器人回答语法问题，合理性更高，相比GPT3，更加严谨，不容易出错；  
+2）GPT4在生成内容方面更加出色，帮你生成地道的学习材料；  
+3）图片识别，文字提取等功能，你可以试试拍摄英文资料，让GPT4o帮你提取；  
 
-## Markdown heading
+#### 2 付费用户的发音评估    
+1）免费用户每天仅可以使用20条发音评估；  
+2）对于重视朗读发音的用户，可能需要更多的使用次数；  
 
-Markdown text with [links](./hello.md)
-```
+#### 3 付费用户更多的存储空间  
+1）免费用户仅能上传20M的图片或者EPUB电子书；  
+2）付费用户可以上传100M的图片或者EPUB电子书；  
+3）免费用户的存储空间为100M，付费用户为1G空间（空间显示开发中，敬请期待）；  
 
-## Links
+<!-- ## 数字货币支付  
 
-Regular Markdown links are supported, using url paths or relative file paths.
+7月份，我们会对店主货币支付的用户进行优惠，10%～20%不等，活动期限以 -->
 
-```md
-Let's see how to [Create a page](/create-a-page).
-```
+*目前微信只支持在PC端付款，手机扫码请用支付宝。
 
-```md
-Let's see how to [Create a page](./create-a-page.md).
-```
+*微信支付只支持一次性付款，不支持周期性订阅，不享受优惠。
 
-**Result:** Let's see how to [Create a page](./create-a-page.md).
+*使用支付宝享受包月优惠，包年优惠20%以上 （12个月的使用期限，付10个月的价格）  
 
-## Images
+## 优惠券的使用方式  
 
-Regular Markdown images are supported.
+订阅页面点击订阅按钮后：    
+![alt text](img/alipay.png)
+需要输入支付宝邮箱：  
+![](img/alipay-2.png)
+下图为优惠码过期，请重新索取优惠码：  
+![alt text](img/alipay-error.png)
 
-You can use absolute paths to reference images in the static directory (`static/img/kazuologow.png`):
+支付宝扫码支付即可：
 
-```md
-![Docusaurus logo](/img/kazuologow.png)
-```
-
-![Docusaurus logo](/img/kazuologow.png)
-
-You can reference images relative to the current file as well. This is particularly useful to colocate images close to the Markdown files using them:
-
-```md
-![Docusaurus logo](./img/kazuologow.png)
-```
-
-## Code Blocks
-
-Markdown code blocks are supported with Syntax highlighting.
-
-````md
-```jsx title="src/components/HelloDocusaurus.js"
-function HelloDocusaurus() {
-  return <h1>Hello, Docusaurus!</h1>;
-}
-```
-````
-
-```jsx title="src/components/HelloDocusaurus.js"
-function HelloDocusaurus() {
-  return <h1>Hello, Docusaurus!</h1>;
-}
-```
-
-## Admonitions
-
-Docusaurus has a special syntax to create admonitions and callouts:
-
-```md
-:::tip My tip
-
-Use this awesome feature option
-
-:::
-
-:::danger Take care
-
-This action is dangerous
-
-:::
-```
-
-:::tip My tip
-
-Use this awesome feature option
-
-:::
-
-:::danger Take care
-
-This action is dangerous
-
-:::
-
-## MDX and React Components
-
-[MDX](https://mdxjs.com/) can make your documentation more **interactive** and allows using any **React components inside Markdown**:
-
-```jsx
-export const Highlight = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
-    }}
-    onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`)
-    }}>
-    {children}
-  </span>
-);
-
-This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
-
-This is <Highlight color="#1877F2">Facebook blue</Highlight> !
-```
-
-export const Highlight = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
-    }}
-    onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`);
-    }}>
-    {children}
-  </span>
-);
-
-This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
-
-This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+![alt text](img/alipay-3.png)
