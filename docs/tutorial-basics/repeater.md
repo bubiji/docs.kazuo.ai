@@ -1,24 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# 点读卡与复读机的场景
+# 复读机的场景
 
-
-## 点读卡功能介绍
-
-![alt text](img/tab-card-edit.png)
-
-* 可以插入表格，制作自己的各种单词卡点读卡
-* 比如：星期、月份、数字、序数词、专有名词、日语50音图
-* 实现卡片点读，想读哪里，点哪里
-
-保存后的效果如下
-
-![alt text](img/tab-card.png)
-
-
-## 朗读卡片的复读功能
+## 多模态卡片的复读功能
 
 ![alt text](img/repeater-red.png)
 
