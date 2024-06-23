@@ -4,8 +4,9 @@ sidebar_position: 1
 
 # About Us
 
- KaZuo.AI  
- We are a company that develops software based on AI technology
+ 深思株式会社
+ Sens Co,. Ltd.
+ We are a company that develops software based on AIe technology
 
 ## Founder
 
@@ -21,8 +22,11 @@ Continuously updated
 
 ### Contact Me  
 
-help@kazuo.ai
+contact@sens.co.jp
 
 03-4500-0507
 
-
+1160014
+Tokyo-to Arakawa-ku
+Higashi-Nippori 2-chome 11-11
+Japan
