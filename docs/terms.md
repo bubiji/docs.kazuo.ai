@@ -1,5 +1,5 @@
-# KaZuo.AI Terms of Use
-Please read the following terms and conditions carefully before subscribing to "KaZuo.AI Monthly" or "KaZuo.AI Annual", a service provided by "KaZuo.AI" ("we", "us", "our") (the "Service").
+# Sens Terms of Use
+Please read the following terms and conditions carefully before subscribing to "Sens Monthly" or "Sens Annual", a service provided by "Sens" ("we", "us", "our") (the "Service").
 
 Subscription
 The service is a subscription-based, fee-based service, which means you will be paid in advance for future subscription usage. Currently you can choose to use the service on an annual, monthly, or buyout basis.
@@ -14,14 +14,14 @@ The free plan will not upgrade to paid plan by default.
 Fees
 When a price adjustment occurs, the new fee will be incurred on your next subscription cycle.
 
-KaZuo.AI Annual Service
-We currently offer standard service prices of $109 per year, $9.08 per month for "KaZuo.AI Annual" service, which may change during promotional periods.
+Sens Annual Service
+We currently offer standard service prices of $109 per year, $9.08 per month for "Sens Annual" service, which may change during promotional periods.
 
-KaZuo.AI Monthly Service
-We currently offer standard service prices of $10.99 per month for "KaZuo.AI Monthly" service, which may change during promotional periods.
+Sens Monthly Service
+We currently offer standard service prices of $10.99 per month for "Sens Monthly" service, which may change during promotional periods.
 
-About KaZuo.AI service's Word Count Limit
-The 220,000-word limit provided by KaZuo.AI service is based on an analysis of English texts. The actual number of words you may use could vary when operating in languages other than English.
+About Sens service's Word Count Limit
+The 220,000-word limit provided by Sens service is based on an analysis of English texts. The actual number of words you may use could vary when operating in languages other than English.
 
 Fair Use Policy
 While our services are designed to be used without restrictions, the term "unlimited" is defined within the bounds of reasonable use by an average user. Our aim is to provide a high-quality service experience for all users, hence we implement a fair use policy to prevent potential degradation of service quality due to excessive use by a minority of users.
@@ -42,6 +42,6 @@ Refunds
 Subscriptions and one-time payments are non-refundable, so be sure to use the daily trial feature to ensure the service meets your needs before you purchase.
 
 Contact Us
-If you have any questions about this policy, you can send an email to support@kazuo.com to inquire, and we will promptly resolve your issue, usually within 5 business days.
+If you have any questions about this policy, you can send an email to support@ssenss.com to inquire, and we will promptly resolve your issue, usually within 5 business days.
 
 Effective date: May 7, 2024

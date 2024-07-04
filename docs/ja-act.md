@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 # 特定商取引法に基づく表記
 
 | 販売業社の名称                 | LI DIAN                                              |

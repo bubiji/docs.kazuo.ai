@@ -3,15 +3,15 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const organizationName = "huabot";
-const projectName = "docs.kazuo.ai";
+const projectName = "docs.Sens";
 
 const config: Config = {
-  title: 'KaZuo',
-  tagline: 'AI增强的卡片记忆工具',
+  title: 'Sens',
+  tagline: '多合一AI语言学习平台',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: `https://docs.kazuo.ai`,
+  url: `https://docs.Sens`,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: `/`,
@@ -61,11 +61,11 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'KaZuo.AI',
+      title: '深思',
       logo: {
-        alt: 'KaZuo.AI Logo',
-        src: 'img/kazuo_logow.png',
-        href: 'https://www.kazuo.ai',
+        alt: 'Sens Logo',
+        src: 'img/senslogo.png',
+        href: 'https://www.ssenss.com',
         target: "_blank"
       },
       items: [
@@ -73,7 +73,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'About Us',
+          label: '快速开始',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         // {
@@ -126,7 +126,7 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} KaZuo.AI, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Sens, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
