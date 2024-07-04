@@ -91,7 +91,7 @@ const config: Config = {
           items: [
             {
               label: 'About Us',
-              to: '/docs/intro',
+              to: '/docs/about-us',
             },
           ],
         },

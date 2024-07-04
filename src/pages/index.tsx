@@ -19,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            KaZuo.AI About Us ⏱️
+            to="/docs/start">
+            深思(Sens)使用指南 ⏱️
           </Link>
           {/* <Link
             className="button button--secondary button--lg"
@@ -32,6 +32,7 @@ function HomepageHeader() {
     </header>
   );
 }
+
 
 export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
