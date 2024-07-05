@@ -65,7 +65,7 @@ const config: Config = {
       logo: {
         alt: 'Sens Logo',
         src: 'img/senslogo.png',
-        href: 'https://www.ssenss.com',
+        href: 'https://www.kazuo.ai',
         target: "_blank"
       },
       items: [

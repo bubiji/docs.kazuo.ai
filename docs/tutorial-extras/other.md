@@ -25,7 +25,7 @@ http://www.kazuo.ai 官网下方有手机与电脑浏览器下载链接
 
 ### 苹果用户下载资源：
 
- [KaZuo.AI IOS AppStore链接](https://apps.apple.com/jp/app/kazuo-ai/id6474546585)（旧版本）
+ [KaZuo.AI IOS AppStore链接](https://apps.apple.com/jp/app/kazuo-ai/id6474546585)
 
 ### windows用户下载资源
  [腾讯提供的Chrome等浏览器下载链接](https://pc.qq.com/detail/1/detail_2661.html)
