@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-
+# Sens Notation
 ### Notation Based on the Specified Commercial Transactions Act
 
 | Seller's Name                  | Sens Co,. Ltd.                                               |
