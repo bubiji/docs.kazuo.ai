@@ -12,11 +12,11 @@ system_id = 489
 headers = {'x-request-token': token}
 
 
-
 def base64_sha256(data: bytes) -> str:
     h = hashlib.sha256()
     h.update(data)
     return str(base64.urlsafe_b64encode((h.digest())), 'UTF-8').strip('=')
+
 
 async def _upload_file(fp):
     url = f'{host}/api/file/run/'
@@ -28,6 +28,18 @@ async def _upload_file(fp):
             timeout=None,
         )
         return rsp.json()['data']
+
+
+async def remove_file(fid):
+    url = f'{host}/api/file/remove'
+    async with AsyncClient() as client:
+        rsp = await client.post(
+            url,
+            data={'fid': fid},
+            headers=headers,
+            timeout=None,
+        )
+        return rsp.json()
 
 
 async def upload_file(file_path):
@@ -124,23 +136,17 @@ async def main(file_path):
         'url': 'https://docs.kazuo.ai/' + file_path[:-3]
     }
 
-    print(new_doc)
-
     new_docs = [new_doc]
-    required_update = False
-    removed = []
 
     for doc in doc_map.values():
         if doc['name'] == new_doc['name']:
             if doc['id'] == new_doc:
                 break
             else:
-                removed.append(doc)
-                required_update = True
+                await remove_file(doc['fid'])
                 continue
 
         new_docs.append(doc)
-
 
     system = await save_system(system_data={'docs': new_docs})
     save_system_file(system)
